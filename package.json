@@ -1,0 +1,23 @@
+{
+  "name": "typefake",
+  "version": "0.1.0",
+  "description": "A simple function to fake TypeScript types",
+  "main": "index.ts",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerter/typefake.git"
+  },
+  "keywords": [
+    "typescript",
+    "angular",
+    "unit-testing"
+  ],
+  "author": "John Oerter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joerter/typefake/issues"
+  },
+  "homepage": "https://github.com/joerter/typefake#readme"
+}
